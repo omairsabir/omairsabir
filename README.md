@@ -11,6 +11,12 @@ Previously Equipment Operation Engineer at Nexperia (semiconductor reliability t
 - PCB design for test and characterisation hardware.
 - Analog and RF IC design (currently learning in public with open-source tools).
 
+## Currently building
+
+| Project | Tools | Status |
+|---|---|---|
+| [IC design portfolio](https://github.com/omairsabir/ic-design-portfolio) | ngspice, Xschem, Magic, KLayout, SKY130 and IHP SG13G2 PDKs | In progress |
+
 ## Toolbox
 
 `MATLAB` `Python` `C++` `ngspice` `LTspice` `Xschem` `Magic` `KLayout` `Altium` `Qucs-S` `scikit-rf`

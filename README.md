@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omair Sabir
 
-<!--
-**omairsabir/omairsabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Power electronics and semiconductor engineer based in Manchester, UK.
+MSc Wireless and Microwave Communication Engineering, Cardiff University.
+Previously Equipment Operation Engineer at Nexperia (semiconductor reliability testing, PCB design, power MOSFET and GaN device characterisation).
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GaN HEMT device physics: my MSc dissertation modelled current collapse caused by charge trapping, using a MATLAB symbolic-numerical framework built on Shockley-Read-Hall theory.
+- Power semiconductor reliability and characterisation.
+- PCB design for test and characterisation hardware.
+- Analog and RF IC design (currently learning in public with open-source tools).
+
+## Toolbox
+
+`MATLAB` `Python` `C++` `ngspice` `LTspice` `Xschem` `Magic` `KLayout` `Altium` `Qucs-S` `scikit-rf`
+
+## Get in touch
+
+- Email: omairsabir24@gmail.com
+- LinkedIn: https://www.linkedin.com/in/omair-sabir
